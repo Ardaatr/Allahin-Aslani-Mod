@@ -5,7 +5,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Allahinaslanimod - Ücretsiz MTA Modları, oyun deneyimini geliştiren kaliteli içerikler ve aktif Discord topluluğu.">
-  <title>Allahinaslanimod</title>
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center; padding: 40px; background-color: #f0f2f5;">
 
